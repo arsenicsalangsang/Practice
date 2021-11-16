@@ -11,6 +11,7 @@ int main(){
     printf("Mam may lang malakas");
     printf("walang klase kay spiderman sa kadahilanang may shooting sa no way home");
     printf("wassup homies");
+    printf("mema langsss");
 
 return 0;
 }
