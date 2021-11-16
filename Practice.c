@@ -10,7 +10,7 @@ int main(){
     printf("mama mo kalbo");
     printf("Mam may lang malakas");
     printf("walang klase kay spiderman sa kadahilanang may shooting sa no way home");
-    printf("wassup homies
+    printf("wassup homies");
 
 return 0;
 }
