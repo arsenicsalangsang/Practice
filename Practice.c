@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("Practice lang ito, may garcia lang malakas");
+    printf("Practice lang ito, mam may labyou");
 
 return 0;
 }
